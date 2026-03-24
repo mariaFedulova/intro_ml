@@ -2,7 +2,7 @@
 
 A practice project exploring basic approaches to estimating rental prices based on property features. The goal is to train simple models and compare their results.
 
-## 📌 Overview
+## Overview
 
 This repository contains a Jupyter Notebook that demonstrates:
 
