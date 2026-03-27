@@ -23,8 +23,8 @@ This repository contains a Jupyter Notebook that demonstrates:
 
 ## Contents
 
-- `notebook.ipynb` – main notebook with all analysis and experiments
-- `data/` – folder containing the dataset (not included in repo)
+- `regression.ipynb` – main notebook with all analysis and experiments
+- `data/` – folder containing the dataset 
 - `README.md` – project description
 
 ##  What’s Covered
